@@ -1,4 +1,4 @@
-### Free-Solutions Chromium orowser 
+### Free-Solutions Chromium Browser 
 Navigateur Internet basé sur le dernière version de Chromium
 Browser utilisé avec Free-Solutions OS 
 
