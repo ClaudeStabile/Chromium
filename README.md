@@ -1,3 +1,4 @@
+![Chromium Free-Solutions Ubuntu/Debian](https://webrtc.free-solutions.org/images/screenshot24.png)
 ### Free-Solutions Chromium Browser 
 Navigateur Internet basé sur le dernière version de Chromium
 Browser utilisé avec Free-Solutions OS 
@@ -14,6 +15,8 @@ OS : Sur Ubuntu 20.x + deban + kubuntu + ?
 https://www.free-solutions.ch/GREEN_SPIDER/GREEN_SPIDER_RELEASE/chromium-browser-stable.deb
 
 ### Release Android
+![Chromium Free-Solutions Android](https://webrtc.free-solutions.org/images/screenshot23.png)
+
 Chrome 89 : Pour l'instant volontairement avec les outils et trackers Google chrome / Testing purpose webRTC
 
 https://www.free-solutions.ch/GREEN_SPIDER/GREEN_SPIDER_RELEASE/ChromePublic.apk
