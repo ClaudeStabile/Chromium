@@ -21,6 +21,6 @@ Chrome 89 : Pour l'instant volontairement avec les outils et trackers Google chr
 
 https://www.free-solutions.ch/GREEN_SPIDER/GREEN_SPIDER_RELEASE/ChromePublic.apk
 
-Appli non signé, pour testing only
+### Appli non signé, pour testing et debugging only !!!
 
 Testeurs & contributeurs Welcomed
