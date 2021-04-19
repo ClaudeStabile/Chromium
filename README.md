@@ -4,7 +4,7 @@ Navigateur Internet basé sur le dernière version de Chromium
 Browser utilisé avec Free-Solutions OS 
 Compilé intégralement à partir du code Source pour les besoins de "Free-Solutions OS"
 A dispo de tout ceux qui ont Ubunto 20.x ou Debian.
-Indispensable pour ceux qui veule un navigateur dernière version basé sur chromium et indépendant de Microsoft et de Google
+Indispensable pour ceux qui veulent un navigateur dernière version basé sur chromium et indépendant de Microsoft et de Google
 
 ### Release LINUX
 Chrome 89, aucun liens Google
