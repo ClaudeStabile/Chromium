@@ -1,4 +1,4 @@
-![Chromium Free-Solutions Ubuntu/Debian](https://webrtc.free-solutions.org/images/screenshot24.png)
+![Chromium Free-Solutions Ubuntu/Debian](https://webrtc.free-solutions.org/images/chromium96.png)
 ### Free-Solutions Chromium Browser 
 Navigateur Internet basé sur le dernière version de Chromium
 Browser utilisé avec Free-Solutions OS 
