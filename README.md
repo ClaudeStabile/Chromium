@@ -12,7 +12,7 @@ Package : debian .deb
 OS : Sur Ubuntu 20.x + deban + kubuntu + ? 
 
 ## Telechargement
-http://green-spider.free-solutions.org/chromium-browser-stable_103.0.5041.0-1_amd64_Free-Solutions-1.deb
+http://green-spider.free-solutions.org/
 
 ### Release Android
 ![Chromium Free-Solutions Android](https://webrtc.free-solutions.org/images/screenshot23.png)
