@@ -7,7 +7,7 @@ A dispo de tout ceux qui ont Ubuntu 20.x ou Debian.
 Indispensable pour ceux qui veulent un navigateur dernière version basé sur chromium et indépendant de Microsoft et de Google
 
 ### Release LINUX
-Chrome 112, aucun liens Google
+Chromium 112, aucun liens Google
 Package : debian .deb
 OS : Sur Ubuntu 20.x & 22.x + deban + kubuntu + ? 
 
