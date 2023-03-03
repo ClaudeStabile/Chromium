@@ -9,7 +9,7 @@ Indispensable pour ceux qui veulent un navigateur dernière version basé sur ch
 ### Release LINUX
 Chromium 112, aucun liens Google
 Package : debian .deb
-OS : Sur Ubuntu 20.x & 22.x + deban + kubuntu + ? 
+OS : Sur Ubuntu 20.x & 22.x + debian + kubuntu + ? 
 
 ## Telechargement
 http://green-spider.free-solutions.org/
