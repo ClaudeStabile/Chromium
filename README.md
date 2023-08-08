@@ -7,7 +7,7 @@ Indispensable pour ceux qui veulent un navigateur dernière version basé sur ch
 
 ### Release LINUX
 Chromium 117, aucun liens Google
-Package : debian .deb
+Packages : debian .deb redhat .rpm
 OS : Sur Ubuntu 20.x & 22.x + debian + kubuntu + ? 
 
 ## Telechargement
