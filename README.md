@@ -11,7 +11,7 @@ Packages : debian .deb redhat .rpm
 OS : Sur Ubuntu 20.x & 22.x + debian + kubuntu + ? 
 
 ## Telechargement
-Seveur FTP free-solutions Sàrl http://green-spider.free-solutions.org/
+. Seveur FTP free-solutions Sàrl http://green-spider.free-solutions.org/
 Package Chromium debian .deb : http://green-spider.free-solutions.org/chromium-browser-stable.deb 
 Package Chromium redhat .rpm : http://green-spider.free-solutions.org/chromium-browser-stable.rpm
 
