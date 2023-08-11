@@ -11,15 +11,8 @@ Packages : debian .deb redhat .rpm
 OS : Sur Ubuntu 20.x & 22.x + debian + kubuntu + ? 
 
 ## Telechargement
-http://green-spider.free-solutions.org/
+Seveur FTP free-solutions Sàrl http://green-spider.free-solutions.org/
+Package Chromium debian .deb : http://green-spider.free-solutions.org/chromium-browser-stable.deb 
+Package Chromium redhat .rpm : http://green-spider.free-solutions.org/chromium-browser-stable.rpm
 
-### Release Android
-![Chromium Free-Solutions Android](https://webrtc.free-solutions.org/images/screenshot23.png)
-
-Chrome 113 : Pour l'instant volontairement avec les outils et trackers Google chrome / Testing purpose webRTC
-
-https://www.free-solutions.ch/GREEN_SPIDER/GREEN_SPIDER_RELEASE/ChromePublic.apk
-
-### Appli non signé, pour testing et debugging only !!!
-
-Testeurs & contributeurs Welcomed
+Enjoy !
