@@ -18,6 +18,14 @@ OS : Sur Ubuntu 20.x & 22.x + debian + kubuntu + ?
 
 -Package Chromium debian .deb : [http://green-spider.free-solutions.org/chromium-browser-stable.deb](http://green-spider.free-solutions.org/chromium-browser-stable.deb)
 
--Package Chromium redhat .rpm : http://green-spider.free-solutions.org/chromium-browser-stable.rpm
+-Package Chromium redhat .rpm : [http://green-spider.free-solutions.org/chromium-browser-stable.rpm](http://green-spider.free-solutions.org/chromium-browser-stable.rpm)
+
+-Package Android apk : [http://green-spider.free-solutions.org/ChromePublic.apk](http://green-spider.free-solutions.org/ChromePublic.apk)
 
 Enjoy !
+
+## Source code & Build 
+![screenshot6](https://github.com/ClaudeStabile/Chromium/assets/29485972/034b5f32-1819-4a33-bc94-40e22aeebbe2)
+
+
+[Chromium sources explorer](https://source.chromium.org/chromium/chromium/src)
