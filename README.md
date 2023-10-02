@@ -1,5 +1,4 @@
-
-![screenshot6](https://github.com/ClaudeStabile/Chromium/assets/29485972/28aad04d-77b9-4ff4-bb2b-babcedc3b08f)
+![screenshot7](https://github.com/ClaudeStabile/Chromium/assets/29485972/99f89445-1623-4459-b4ec-c584419234f6)
 
 ### Free-Solutions Chromium Browser 
 Navigateur Internet basé sur le dernière version de Chromium
