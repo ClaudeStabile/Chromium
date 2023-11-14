@@ -1,4 +1,4 @@
-![chromium120](https://github.com/ClaudeStabile/Chromium/assets/29485972/a7cc25c5-ef66-4f1f-a4ea-4c9df2064f6d)
+![screenshot10](https://github.com/ClaudeStabile/Chromium/assets/29485972/ede79ea4-5553-4d7c-85ce-4cf47e34d186)
 
 
 
@@ -10,7 +10,7 @@ A dispo de tout ceux qui ont Ubuntu 20.x et 22.x ou Debian.
 Indispensable pour ceux qui veulent un navigateur dernière version basé sur chromium et indépendant de Microsoft et de Google
 
 ### Release LINUX
-Chromium 120, Utilisable Google
+Chromium 121, Utilisable Google
 Packages : debian .deb redhat .rpm
 OS : Sur Ubuntu 20.x & 22.x + debian + kubuntu + ? 
 
