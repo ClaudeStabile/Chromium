@@ -1,5 +1,4 @@
-![screenshot10](https://github.com/ClaudeStabile/Chromium/assets/29485972/ede79ea4-5553-4d7c-85ce-4cf47e34d186)
-
+![screenshot10](https://github.com/ClaudeStabile/Chromium/assets/29485972/57c9f699-38c7-4a29-a95d-e97e28f87807)
 
 
 ### Free-Solutions Chromium Browser 
