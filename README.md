@@ -1,4 +1,3 @@
-![screenshot10](https://github.com/ClaudeStabile/Chromium/assets/29485972/57c9f699-38c7-4a29-a95d-e97e28f87807)
 ![screenshot17](https://github.com/ClaudeStabile/Chromium/assets/29485972/23d8f46e-ec1e-4fec-a711-bf4a440e52fa)
 
 
