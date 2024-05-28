@@ -1,4 +1,4 @@
-![screenshot17](https://github.com/ClaudeStabile/Chromium/assets/29485972/23d8f46e-ec1e-4fec-a711-bf4a440e52fa)
+![screenshot30](https://github.com/ClaudeStabile/Chromium/assets/29485972/77640b97-7694-4bb1-8f84-19a4161bbc23)
 
 
 ### Free-Solutions Chromium Browser 
@@ -9,7 +9,7 @@ A dispo de tout ceux qui ont Ubuntu 20.x et 22.x ou Debian.
 Indispensable pour ceux qui veulent un navigateur dernière version basé sur chromium et indépendant de Microsoft et de Google
 
 ### Release LINUX
-Chromium 121, Utilisable Google
+Chromium 127, Utilisable Google
 Packages : debian .deb redhat .rpm
 OS : Sur Ubuntu 20.x & 22.x + debian + kubuntu + ? 
 
